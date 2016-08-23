@@ -1,0 +1,12 @@
+    File System
+    ===========
+
+This package contains directories and /etc files that are essential
+for the system. To install the package, run
+
+make install
+
+In case that you are working with UPM, remember to refresh every install
+directory after installing, by a way of
+
+upm --refresh-dirs
